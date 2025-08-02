@@ -55,8 +55,8 @@ Infrastructure (charging points) has significantly increased in recent years.
 
 Visualization highlights include heatmaps, treemaps, choropleth maps, and trend lines.
 
-🤖 Note on AI Assistance
-Some parts of this project were enhanced using ChatGPT for guidance and explanation. However, all core logic, visualizations, and analytical thought processes were built and interpreted independently, reflecting my understanding of Python and EDA techniques.
+🤖 Note:
+Some parts of this project were enhanced using AI for guidance, explanation and for better analysis. However, all core logic, visualizations, and analytical thought processes were built and interpreted independently, reflecting my understanding of Python and EDA techniques.
 
 💼 Learning Outcomes
 Cleaned and transformed a complex real-world dataset
